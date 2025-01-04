@@ -50,7 +50,6 @@ Use the following connection table to set up the network:
 | Printer       | NIC (F/0)       | Switch           | F0/24                     |
 
 - Use **Ethernet copper straight-through cables** for all connections.
-- Verify green link lights on all connections.
 
 ![Connection Setup](path-to-your-connection-setup-image.png)
 
@@ -107,7 +106,7 @@ Use the following connection table to set up the network:
 ### Part 5: Final LAN Diagram with IP Addressing
 
 - **Final Completed Diagram with IP Addressing**: Below is the diagram of the fully completed LAN, showing all the network devices, connections, and **IP configurations**.
-
+- Verify green link lights on all connections.
    ![LAN Final Diagram](path-to-your-lan-final-diagram.png)
 
    **IP Addressing Details:**
