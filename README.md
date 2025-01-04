@@ -10,7 +10,7 @@ This project demonstrates the setup of a Local Area Network (LAN) using Cisco Pa
 4. Use networking commands to view host information.
 
 ### Resources
-- **Video demonstration**: [YouTube Link](#)
+- **Video demonstration**: [YouTube Link](https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=2)
 - **Screenshots**: Included per objective for better understanding.
 
 ---
