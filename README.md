@@ -9,11 +9,13 @@ This project demonstrates the setup of a Local Area Network (LAN) using Cisco Pa
 3. Verify the end device configuration and connectivity.
 4. Use networking commands to view host information.
 
+### Scenario
+A new branch office is opening and your task is to configure its Local Area Network (LAN).While the network devices are already physically installed, you need to connect them and configure IPv4 addressing for all end devices. The goal is to ensure seamless communication between local devices and external resources, enabling the branch office to operate efficiently." 
+
 ### Resources
 - **Video demonstration**: [YouTube Link](https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=2)
 - **Screenshots**: Included per objective for better understanding.
-
----
+  
 
 ## Addressing Table
 | Device         | Interface/Port | IPv4 Address      | Subnet Mask      |
