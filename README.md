@@ -35,9 +35,15 @@ A new branch office is opening and your task is to configure its Local Area Netw
 - Open the **Physical Tab** for each device.
 - Turn on the power switch in the **Physical Device View** window.
 - Verify that the green power light is illuminated.
+- 
+  ### Power on Devices
+<p align="center">
+  <img src="https://imgur.com/PhKhOQQ.png" alt="Power on Devices" width="80%" />
+</p>
 
-![Power on Devices](file-TVW7fw9AohHwCA2BEcjQ8w)
 
+
+  
 #### Step 2: Connect Devices
 Use the following connection table to set up the network:
 
@@ -50,8 +56,13 @@ Use the following connection table to set up the network:
 | Printer       | NIC (F/0)       | Switch           | F0/24                     |
 
 - Use **Ethernet copper straight-through cables** for all connections.
+<p align="center">
+  <img src="https://imgur.com/8tdhx5M.png" alt="Connection Setup 1" width="80%" />
+  <img src="https://i.imgur.com/wU8wxBJ.png" alt="Connection Setup 2" width="80%" />
+</p>
 
-![Connection Setup](path-to-your-connection-setup-image.png)
+
+
 
 ---
 
@@ -65,8 +76,16 @@ Use the following connection table to set up the network:
   - Configure manually with the static IP address from the Addressing Table.
   - Open the **Config Tab > FastEthernet0 interface** and input the IP address and subnet mask.
 
-![Configure Admin PC](path-to-admin-pc-ip-configuration-image.png)
-![Configure Printer](path-to-printer-ip-configuration-image.png)
+### Configure Admin PC
+<p align="center">
+  <img src="https://imgur.com/PMj2KAm.png" alt="Configure Admin PC" width="80%" />
+</p>
+
+### Configure Printer
+<p align="center">
+  <img src="https://i.imgur.com/8Jdt2tA.png" alt="Configure Printer" width="80%" />
+</p>
+
 
 ---
 
@@ -77,29 +96,46 @@ Use the following connection table to set up the network:
 - Use **ping** to test connectivity with the Printer from Admin PC and Manager PC.
   - Example: `ping 192.168.1.100`
 
-![Ping Test Result](path-to-ping-test-result-image.png)
+### Ping Test Result
+<p align="center">
+  <img src="https://imgur.com/Y66zDtE.png" alt="Ping Test Result" width="80%" />
+</p>
+
 
 #### Step 2: Verify Internet Connectivity
 - Open the **Web Browser** on the PCs.
 - Access the internet server using its IP address and URL.
   - Example: IP address: `209.165.200.225`; URL: `www.cisco.pt`.
+  - 
+### Internet Connectivity Test
+<p align="center">
+  <img src="https://imgur.com/fU9lL7A.png" alt="Internet Connectivity Test" width="80%" />
+</p>
 
-![Internet Connectivity Test](path-to-internet-connectivity-test-image.png)
+
 
 ---
 
 ### Part 4: Use Networking Commands to View Host Information
 
-#### Step 1: Use the `ipconfig` Command
+#### Step 1: Use the `ipconfig/all` Command
 - Open **Command Prompt** on a PC.
 - Run `ipconfig` and `ipconfig /all` to display network configuration details.
+### IPConfig/all Output
+<p align="center">
+  <img src="https://imgur.com/gOcMX2H.png" alt="IPConfig/all Output" width="80%" />
+</p>
 
-![IPConfig Output](path-to-ipconfig-output-image.png)
+
 
 #### Step 2: Use the `tracert` Command
 - From a PC, run `tracert www.cisco.pt` to trace the route to the web server's URL.
 
-![Tracert Output](path-to-tracert-output-image.png)
+### Tracert Output
+<p align="center">
+  <img src="https://imgur.com/rshTF7Q.png" alt="Tracert Output" width="80%" />
+</p>
+
 
 ---
 
@@ -107,7 +143,11 @@ Use the following connection table to set up the network:
 
 - **Final Completed Diagram with IP Addressing**: Below is the diagram of the fully completed LAN, showing all the network devices, connections, and **IP configurations**.
 - Verify green link lights on all connections.
-   ![LAN Final Diagram](path-to-your-lan-final-diagram.png)
+  ### LAN Final Diagram
+<p align="center">
+  <img src="https://imgur.com/llkB0rI.png" alt="LAN Final Diagram" width="80%" />
+</p>
+
 
    **IP Addressing Details:**
    - **Admin PC**: DHCP assigned.
@@ -126,13 +166,21 @@ Use the following connection table to set up the network:
    - Capture the **status message** confirming the connection was successful.
 
    *Example Screenshot:*
-   ![Connection Test Result](path-to-your-connection-test-screenshot.png)
+  ### Connection Test Result
+<p align="center">
+  <img src="https://imgur.com/ZlhIno9.png" alt="Connection Test Result" width="80%" />
+</p>
+
 
 2. **Project Requirements: All Answers Correct**:
    - Capture a screenshot showing that all project requirements (such as network setup, IP configuration, and connectivity tests) have been completed successfully, and all answers were marked correct.
 
    *Example Screenshot (Project Results)**:
-   ![All Answers Correct](path-to-your-final-results-screenshot.png)
+  ### Results
+<p align="center">
+  <img src="https://imgur.com/x9PT5q9.png" alt="Results" width="80%" />
+</p>
+
 
 ---
 
