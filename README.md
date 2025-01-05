@@ -34,7 +34,7 @@ A new branch office is opening and your task is to configure its Local Area Netw
 #### Step 1: Power on Devices
 - Open the **Physical Tab** for each device.
 - Turn on the power switch in the **Physical Device View** window.
-- Verify that the green power light is illuminated.
+- Verify that the yellow power light is illuminated.
 - 
   ### Power on Devices
 <p align="center">
