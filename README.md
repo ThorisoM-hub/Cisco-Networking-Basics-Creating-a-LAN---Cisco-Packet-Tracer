@@ -38,7 +38,7 @@ A new branch office is opening and your task is to configure its Local Area Netw
 - 
   ### Power on Devices
 <p align="center">
-  <img src="https://imgur.com/PhKhOQQ.png" alt="Power on Devices" width="100%" />
+  <img src="https://i.imgur.com/HBEgSd1.png" alt="Power on Devices" width="100%" />
 </p>
 
 
@@ -57,8 +57,8 @@ Use the following connection table to set up the network:
 
 - Use **Ethernet copper straight-through cables** for all connections.
 <p align="center">
-  <img src="https://imgur.com/8tdhx5M.png" alt="Connection Setup 1" width="100%" />
-  <img src="https://i.imgur.com/wU8wxBJ.png" alt="Connection Setup 2" width="100%" />
+  <img src="https://i.imgur.com/Efi4kgP.png" alt="Connection Setup 1" width="100%" />
+  <img src="https://i.imgur.com/I1BPfjI.png" alt="Connection Setup 2" width="100%" />
 </p>
 
 ---
@@ -75,12 +75,12 @@ Use the following connection table to set up the network:
 
 ### Configure Admin PC
 <p align="center">
-  <img src="https://imgur.com/PMj2KAm.png" alt="Configure Admin PC" width="100%" />
+  <img src="https://i.imgur.com/uF0gqgQ.png" alt="Configure Admin PC" width="100%" />
 </p>
 
 ### Configure Printer
 <p align="center">
-  <img src="https://i.imgur.com/8Jdt2tA.png" alt="Configure Printer" width="100%" />
+  <img src="https://i.imgur.com/8EVdQej.png" alt="Configure Printer" width="100%" />
 </p>
 
 
@@ -120,7 +120,7 @@ Use the following connection table to set up the network:
 - Run `ipconfig` and `ipconfig /all` to display network configuration details.
 ### IPConfig/all Output
 <p align="center">
-  <img src="https://imgur.com/gOcMX2H.png" alt="IPConfig/all Output" width="100%" />
+  <img src="https://i.imgur.com/p37Gioo.png" alt="IPConfig/all Output" width="100%" />
 </p>
 
 
@@ -165,7 +165,7 @@ Use the following connection table to set up the network:
    *Example Screenshot:*
   ### Connection Test Result
 <p align="center">
-  <img src="https://imgur.com/ZlhIno9.png" alt="Connection Test Result" width="100%" />
+  <img src="https://i.imgur.com/kDU3sh1.png" alt="Connection Test Result" width="100%" />
 </p>
 
 
